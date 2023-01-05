@@ -39,7 +39,7 @@ tracks/0/keys = {
 radius = 6.0
 
 [node name="Slime" type="RigidBody2D"]
-position = Vector2( 192, 83 )
+position = Vector2( 279, 213 )
 gravity_scale = 0.0
 script = ExtResource( 2 )
 __meta__ = {

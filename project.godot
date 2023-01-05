@@ -8,6 +8,16 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Resource",
+"class": "SlimeBase",
+"language": "GDScript",
+"path": "res://scripts/Slime_Base.gd"
+} ]
+_global_script_class_icons={
+"SlimeBase": ""
+}
+
 [application]
 
 config/name="Dream"
